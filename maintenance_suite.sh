@@ -9,7 +9,7 @@ SCRIPTS_DIR="$ROOT_DIR/scripts"
 show_menu() {
 cat <<EOF
 ==========================
- RecyQ Maintenance Suite
+  Maintenance Suite
 ==========================
 1) Run Backup
 2) Run System Update & Cleanup
